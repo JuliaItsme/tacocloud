@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/tacocloud
+    username: user
+    password: password
+#    oauth2:
+#      client:
+#        registration:
+#          <ouath2 or openid provider name>:
+#            client-id: <client id>
+#            client-secret: <client secret>
+#            scope: <comma-separated list of requested scope>
